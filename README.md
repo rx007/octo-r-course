@@ -3,7 +3,7 @@ octo-r-course
 
 ## About
 
-Contains some of my R codes
+RRRrrr, Matey! Ye be warned...
 
 ## License
 
